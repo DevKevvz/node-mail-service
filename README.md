@@ -1,8 +1,8 @@
 # node-mail-service
 
-## Use Npm i for install the projet dependencies and run using the comand "npm run dev"
+## Use <b>"npm i"</b> for install the projet dependencies and run using the comand <b>"npm run dev"</b>
 
-## Use the endpoint http://localhost:3000/send_mail, that request a Json Body like that: 
+## Use the endpoint <b>http://localhost:3000/send_mail</b>, that request a Json Body like that: 
 
 {
 
